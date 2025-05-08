@@ -6,9 +6,7 @@ Change pubspec.yaml file in your poject:
 
 use:
 ```yaml
-isar_flutter_libs:
-    git: 
-      url: https://github.com/MrLittleWhite/isar_flutter_libs.git
+xxf_isar_flutter_libs: ^3.1.0+1
 ```
 
 instead:
